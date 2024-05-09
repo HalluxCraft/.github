@@ -1,0 +1,1 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=HalluxCraft%20Practice&section=header&reversal=true&textBg=false&fontSize=60&strokeWidth=0&desc=Modern%20Minecraft%20Bedrock%20Server&descSize=25&fontColor=000080&fontAlign=50&animation=fadeIn&rotate=0)
